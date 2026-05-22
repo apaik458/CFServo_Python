@@ -6,7 +6,7 @@ A Python SDK for controlling the Waveshare CF35-12 servo, modified from the Wave
 - Changing variable and macro name prefixes (ST -> CF)
 
 <br>
-<img src="cf35_12.jpg" style="width: 40%"/>
+<img src="cf35_12.jpg" style="width: 50%"/>
 
 ## Repository Structure
 
